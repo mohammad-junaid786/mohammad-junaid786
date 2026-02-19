@@ -31,17 +31,16 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 ```
 
 ```
-┌────────────────────┬──────────────────────────────────────────────────┐
-│ Field              │ Value                                            │
-├────────────────────┼──────────────────────────────────────────────────┤
-│ 🎓 Background      │ BBA – Business Analytics & Research             │
-│ 📍 Location        │ Tikamgarh, Madhya Pradesh, India                │
-│ 🎯 Focus           │ Production-style, end-to-end analytics systems  │
-│ 💡 Philosophy      │ Analytics = Solving business problems,          │
-│                    │ not just writing queries                         │
-│ 🔍 Currently       │ Advanced E-Commerce Analytics + KPI Modeling    │
-│ 🚀 Open To         │ Data Analyst · BI Developer · SQL Developer     │
-└────────────────────┴──────────────────────────────────────────────────┘
+ Field              | Value
+ ------------------|--------------------------------------------------
+ Background         | BBA - Business Analytics & Research
+ Location           | Tikamgarh, Madhya Pradesh, India
+ Focus              | Production-style, end-to-end analytics systems
+ Philosophy         | Analytics = Solving business problems,
+                    |   not just writing queries
+ Currently          | Advanced E-Commerce Analytics + KPI Modeling
+ Open To            | Data Analyst · Business Analyst
+                    |   · Research Analyst · BI Developer
 ```
 
 > *"Structured thinking beats complicated code."*
@@ -177,28 +176,28 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 ```
          RAW DATA
-             │
-             ▼
-    ┌─────────────────┐
-    │  CLEAN STRUCTURE │  ← No messy, undocumented scripts
-    └────────┬────────┘
-             │
-             ▼
-    ┌─────────────────┐
-    │ DEFENSIVE LOGIC  │  ← NULL handling, edge cases, validation
-    └────────┬────────┘
-             │
-             ▼
-    ┌─────────────────┐
-    │  KPI FRAMEWORKS  │  ← Business-aligned metrics, not vanity stats
-    └────────┬────────┘
-             │
-             ▼
-    ┌─────────────────┐
-    │ CLEAR NARRATIVE  │  ← Decisions, not just dashboards
-    └────────┬────────┘
-             │
-             ▼
+             |
+             v
+    +-------------------+
+    |  CLEAN STRUCTURE  |   No messy, undocumented scripts
+    +--------+----------+
+             |
+             v
+    +-------------------+
+    |  DEFENSIVE LOGIC  |   NULL handling, edge cases, validation
+    +--------+----------+
+             |
+             v
+    +-------------------+
+    |  KPI FRAMEWORKS   |   Business-aligned metrics, not vanity stats
+    +--------+----------+
+             |
+             v
+    +-------------------+
+    |  CLEAR NARRATIVE  |   Decisions, not just dashboards
+    +--------+----------+
+             |
+             v
        BUSINESS VALUE
 ```
 
@@ -210,23 +209,20 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 <div align="center">
 
-![Data Analyst](https://img.shields.io/badge/🔍%20Data%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-
-![BI Developer](https://img.shields.io/badge/📊%20BI%20Developer-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-
-![SQL Developer](https://img.shields.io/badge/🛢️%20SQL%20Developer-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-
-![Analytics Engineer](https://img.shields.io/badge/⚙️%20Analytics%20Engineer-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
+![Business Analyst](https://img.shields.io/badge/Business%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
+![Research Analyst](https://img.shields.io/badge/Research%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
+![BI Developer](https://img.shields.io/badge/BI%20Developer-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📅 Contribution Graph
 
 <div align="center">
 
-![github-snake](https://raw.githubusercontent.com/mohammad-junaid786/mohammad-junaid786/output/github-contribution-grid-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-junaid786&bg_color=0f2027&color=43C6AC&line=43C6AC&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
