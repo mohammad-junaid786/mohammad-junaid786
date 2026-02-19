@@ -226,11 +226,7 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad-junaid786/mohammad-junaid786/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad-junaid786/mohammad-junaid786/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammad-junaid786/mohammad-junaid786/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![github-snake](https://raw.githubusercontent.com/mohammad-junaid786/mohammad-junaid786/output/github-contribution-grid-snake.svg)
 
 </div>
 
