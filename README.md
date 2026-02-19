@@ -33,14 +33,14 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 ```
 ┌────────────────────┬──────────────────────────────────────────────────┐
 │ Field              │ Value                                            │
-├──────────────────── ┼──────────────────────────────────────────────────┤
-│ 🎓 Background      │ BBA - Business Analytics & Research              │
-│ 📍 Location        │ Tikamgarh, Madhya Pradesh, India                 │
-│ 🎯 Focus           │ Production-style, end-to-end analytics systems   │
-│ 💡 Philosophy      │ Analytics = Solving business problems,           │
-│                    │ not just writing queries                          │
-│ 🔍 Currently       │ Advanced E-Commerce Analytics + KPI Modeling     │
-│ 🚀 Open To         │ Data Analyst · Business Analyst                  │
+├────────────────────┼──────────────────────────────────────────────────┤
+│  Background        │ BBA - Business Analytics & Research              │
+│  Location          │ Tikamgarh, Madhya Pradesh, India                 │
+│  Focus             │ Production-style, end-to-end analytics systems   │
+│  Philosophy        │ Analytics = Solving business problems,           │
+│                    │ not just writing queries                         │
+│  Currently         │ Advanced E-Commerce Analytics + KPI Modeling     │
+│  Open To           │ Data Analyst · Business Analyst                  │
 │                    │ Research Analyst · BI Developer                  │
 └────────────────────┴──────────────────────────────────────────────────┘
 ```
@@ -87,6 +87,7 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -151,7 +152,7 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 📊 GitHub Stats
@@ -173,8 +174,6 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 ---
 
 ## 📈 My Analytics Philosophy
-
-<div align="center">
 
 ```
          RAW DATA
