@@ -31,16 +31,18 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 ```
 
 ```
- Field              | Value
- ------------------|--------------------------------------------------
- Background         | BBA - Business Analytics & Research
- Location           | Tikamgarh, Madhya Pradesh, India
- Focus              | Production-style, end-to-end analytics systems
- Philosophy         | Analytics = Solving business problems,
-                    |   not just writing queries
- Currently          | Advanced E-Commerce Analytics + KPI Modeling
- Open To            | Data Analyst · Business Analyst
-                    |   · Research Analyst · BI Developer
+┌────────────────────┬──────────────────────────────────────────────────┐
+│ Field              │ Value                                            │
+├──────────────────── ┼──────────────────────────────────────────────────┤
+│ 🎓 Background      │ BBA - Business Analytics & Research              │
+│ 📍 Location        │ Tikamgarh, Madhya Pradesh, India                 │
+│ 🎯 Focus           │ Production-style, end-to-end analytics systems   │
+│ 💡 Philosophy      │ Analytics = Solving business problems,           │
+│                    │ not just writing queries                          │
+│ 🔍 Currently       │ Advanced E-Commerce Analytics + KPI Modeling     │
+│ 🚀 Open To         │ Data Analyst · Business Analyst                  │
+│                    │ Research Analyst · BI Developer                  │
+└────────────────────┴──────────────────────────────────────────────────┘
 ```
 
 > *"Structured thinking beats complicated code."*
@@ -176,29 +178,29 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 ```
          RAW DATA
-             |
-             v
-    +-------------------+
-    |  CLEAN STRUCTURE  |   No messy, undocumented scripts
-    +--------+----------+
-             |
-             v
-    +-------------------+
-    |  DEFENSIVE LOGIC  |   NULL handling, edge cases, validation
-    +--------+----------+
-             |
-             v
-    +-------------------+
-    |  KPI FRAMEWORKS   |   Business-aligned metrics, not vanity stats
-    +--------+----------+
-             |
-             v
-    +-------------------+
-    |  CLEAR NARRATIVE  |   Decisions, not just dashboards
-    +--------+----------+
-             |
-             v
-       BUSINESS VALUE
+             │
+             ▼
+    ┌─────────────────────┐
+    │   CLEAN STRUCTURE   │  ← No messy, undocumented scripts
+    └──────────┬──────────┘
+               │
+               ▼
+    ┌─────────────────────┐
+    │   DEFENSIVE LOGIC   │  ← NULL handling, edge cases, validation
+    └──────────┬──────────┘
+               │
+               ▼
+    ┌─────────────────────┐
+    │   KPI FRAMEWORKS    │  ← Business-aligned metrics, not vanity stats
+    └──────────┬──────────┘
+               │
+               ▼
+    ┌─────────────────────┐
+    │   CLEAR NARRATIVE   │  ← Decisions, not just dashboards
+    └──────────┬──────────┘
+               │
+               ▼
+         BUSINESS VALUE
 ```
 
 </div>
