@@ -18,7 +18,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammad-junaid786&color=43c6ac&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -98,11 +97,10 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
         <li>✅ Revenue, Orders, Customers, AOV KPIs</li>
         <li>✅ Defensive revenue logic (cancellations & negatives)</li>
         <li>✅ Country & product-level performance</li>
-        <li>✅ Interactive Tableau dashboard</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Business%20Analytics-43C6AC?style=flat-square&logoColor=white&color=1a7a6e"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -159,14 +157,6 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-junaid786&show_icons=true&theme=dark&bg_color=0f2027&title_color=43C6AC&icon_color=43C6AC&text_color=ffffff&border_color=2c5364&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-junaid786&layout=compact&theme=dark&bg_color=0f2027&title_color=43C6AC&text_color=ffffff&border_color=2c5364"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-junaid786&theme=dark&background=0f2027&border=2c5364&ring=43C6AC&fire=ff6b35&currStreakLabel=43C6AC)](https://git.io/streak-stats)
 
 </div>
@@ -210,10 +200,16 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 <div align="center">
 
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-![Business Analyst](https://img.shields.io/badge/Business%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-![Research Analyst](https://img.shields.io/badge/Research%20Analyst-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
-![BI Developer](https://img.shields.io/badge/BI%20Developer-Open%20to%20Opportunities-43C6AC?style=for-the-badge&labelColor=0f2027)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Data%20Analyst-Open%20to%20Opportunities-0f2027?style=for-the-badge&logo=bar-chart&logoColor=43C6AC&labelColor=0f2027&color=43C6AC"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Business%20Analyst-Open%20to%20Opportunities-0f2027?style=for-the-badge&logo=briefcase&logoColor=43C6AC&labelColor=0f2027&color=43C6AC"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Research%20Analyst-Open%20to%20Opportunities-0f2027?style=for-the-badge&logo=search&logoColor=43C6AC&labelColor=0f2027&color=43C6AC"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/BI%20Developer-Open%20to%20Opportunities-0f2027?style=for-the-badge&logo=tableau&logoColor=43C6AC&labelColor=0f2027&color=43C6AC"/></td>
+  </tr>
+</table>
 
 </div>
 
