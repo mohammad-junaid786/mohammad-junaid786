@@ -153,16 +153,6 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 </div>
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-junaid786&theme=dark&background=0f2027&border=2c5364&ring=43C6AC&fire=ff6b35&currStreakLabel=43C6AC)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📈 My Analytics Philosophy
 
 ```
