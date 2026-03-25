@@ -205,16 +205,6 @@ SELECT * FROM analyst WHERE name = 'Mohammad Junaid';
 
 ---
 
-## 📅 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-junaid786&bg_color=0f2027&color=43C6AC&line=43C6AC&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Let's%20Connect!&fontColor=43C6AC&fontSize=24&fontAlignY=65" width="100%"/>
